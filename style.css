@@ -49,7 +49,7 @@ body {
     margin: 0 auto;
 }
 
-/* --- Filter Buttons --- */
+
 #filter-container {
     display: flex;
     justify-content: center;
@@ -83,7 +83,7 @@ body {
     font-weight: 600;
 }
 
-/* --- Project Grid --- */
+
 #project-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -188,7 +188,7 @@ body {
     background-color: var(--card-bg);
 }
 
-/* --- Footer --- */
+
 footer {
     text-align: center;
     padding: 3rem 1rem;
@@ -200,7 +200,7 @@ footer .fa-heart {
     color: var(--primary-color);
 }
 
-/* --- Animations --- */
+
 @keyframes fadeIn {
     from {
         opacity: 0;
@@ -212,7 +212,7 @@ footer .fa-heart {
     }
 }
 
-/* --- Responsive Design --- */
+
 @media (max-width: 768px) {
     .hero h1 {
         font-size: 2.5rem;
