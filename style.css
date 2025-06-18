@@ -93,7 +93,7 @@ body {
     margin: 0 auto;
 }
 
-/* --- Project Card (The Creative Part!) --- */
+
 .project-card {
     background: var(--card-bg);
     border: 1px solid var(--card-border);
